@@ -2,7 +2,7 @@
 layout: default
 title: Home
 permalink: /
-nav_order: 1
+nav_order: 0
 ---
 
 A reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others)
